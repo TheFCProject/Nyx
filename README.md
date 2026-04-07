@@ -65,6 +65,9 @@ Before setting up Nyx locally, ensure you have:
 ### Meet our fellow developers
 | highschoolcrackhead. | alexxxzdevelops |
 | -------- | -------- |
+
+---
+
 ### License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
